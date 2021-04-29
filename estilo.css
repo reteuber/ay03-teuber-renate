@@ -4,7 +4,7 @@
     background-color: rgb(176, 234, 238);
     font:message-box;
 }
-#titulo{
+.titulo{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40.px;
     background-color: rgb(127, 255, 244);
